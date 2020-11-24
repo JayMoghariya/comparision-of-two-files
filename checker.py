@@ -15,4 +15,4 @@ else:
             print(str(i+1)+"  "+a[i]+"  "+b[i])
             
             
-#use "C:\\Users\\Jay Moghariya\\Desktop\\input.txt" this kind of input  if you put "\" instead of "\\" it will give error .
+#use "C:\\Users\\Jay Moghariya\\Desktop\\input.txt" this kind of address;  if you put "\" instead of "\\" it will give error .
